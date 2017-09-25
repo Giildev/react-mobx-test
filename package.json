@@ -2,7 +2,7 @@
 	"name": "react-mobx-test",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://giildev.github.io/bandit-test",
+	"homepage": "https://giildev.github.io/react-mobx-test/",
 	"dependencies": {
 		"autoprefixer": "7.1.2",
 		"babel-core": "6.25.0",
