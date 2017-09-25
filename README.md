@@ -1,7 +1,9 @@
 ## Info
 
-This project it's a test of React + Mobx develop in a single day from scratch with [Create React App](https://github.com/facebookincubator/create-react-app). -  [material-ui](http://www.material-ui.com/). and [Mobx](https://mobx.js.org/).
+This project it's a test of React + Mobx develop in a single day from scratch with [Create React App](https://github.com/facebookincubator/create-react-app) -  [Material-ui](http://www.material-ui.com/) And [Mobx](https://mobx.js.org/).
 
+
+## Create React README
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
